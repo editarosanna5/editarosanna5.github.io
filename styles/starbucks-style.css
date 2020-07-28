@@ -1,0 +1,25 @@
+.full-caption {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 12px;
+	text-align: center;
+	padding: 20px 25%;
+	background-color: #D4E9E2;
+	margin: -10px -10px 40px -10px;
+}
+
+.left-caption {
+	font-family: 'Noto Sans JP', sans-serif;
+	text-align: center;
+	background-color: #D4E9E2;
+	margin: -10px -10px
+}
+
+h1.left-caption {
+	font-size: 14px;
+	padding: 20px 60% 5px 10%;
+}
+
+p.left-caption {
+	font-size: 12px;
+	padding: 20px 60% 20px 10%;
+}
