@@ -23,4 +23,5 @@ p, li {
 	font-size: 14px;
 	line-height: 2;
 	letter-spacing: 1px;
+	background-image: url(/images/firefox-icon.png);
 }
